@@ -1,0 +1,3 @@
+Node.js is a JavaScript runtime.
+It is fast and event driven.
+This is a word count example.
