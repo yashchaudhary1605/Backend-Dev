@@ -1,0 +1,18 @@
+{
+  "name": "express-framework-basics",
+  "version": "1.0.0",
+  "description": "Express Framework Basics Tutorial",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ejs": "^3.1.9",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
