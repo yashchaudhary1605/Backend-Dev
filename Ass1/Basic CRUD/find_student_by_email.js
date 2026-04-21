@@ -1,0 +1,1 @@
+db.students.findOne({ email: "vishal@gmail.com" })

@@ -1,0 +1,1 @@
+db.students.deleteOne({ email: "aman@gmail.com" })
